@@ -15,5 +15,15 @@ Nothing fancy about this project of mine, just a little curiousity game i'm play
 - Knowledge of Javascript
 - and a brain.
 
+### Deployment
+- clone this repo
+- install nodejs and npm
+- execute "npm install" in the terminal/command line
+- review the code and make changes (the start variable)
+- run through nodejs
+
+### Todo
+- nodejs console input
+- add more pattern (currently it recognized only 1 pattern)
 
 ### Note: Explore the world and keep Hacking!
