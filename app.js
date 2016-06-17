@@ -4,6 +4,17 @@ var request = require('ajax-request');
 
 // Important Variables
 
+/**
+ * NOTE
+ * If you know a router pattern other than the pattern i put there please let me know.
+ * I need this to be able to search more router patterns to be effective.
+ * HOW TO ADD PATTERN
+ * If you are in a router login, look at your developer mode and search for the brand name in the code
+ * if it is inside a tag, get it aswell if needed. then add it in the array below [router_pattern].
+ * you can add it below like /Cisco something/i where "Cisco something" is the pattern if you don't know
+ * how to do the following, please tell me instead.
+ */
+
 var router_pattern = [
   /ZyXEL P-660HN-T1A/i,
 ];
