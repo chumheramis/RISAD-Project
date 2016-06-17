@@ -9,7 +9,7 @@ var router_pattern = [
 ];
 
 
-var start = '112.201.151.0';
+var start = '192.168.1.1';
 
 // Program Start
 var ip_addresses = range(start,255);
